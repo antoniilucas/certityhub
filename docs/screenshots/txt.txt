@@ -1,0 +1,13 @@
+Guardar prints.
+
+Exemplo
+
+screenshots/
+
+dashboard.png
+
+login.png
+
+landing.png
+
+certificados.png
