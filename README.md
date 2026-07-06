@@ -18,8 +18,6 @@ PostgreSQL
 
 ## Estrutura
 
-landing/
-
 frontend/
 
 backend/
